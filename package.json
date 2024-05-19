@@ -1,0 +1,16 @@
+{
+  "name": "export",
+  "version": "1.0.0",
+  "main": "export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "oracledb": "^6.5.0"
+  }
+}
